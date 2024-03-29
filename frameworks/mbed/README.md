@@ -1,5 +1,5 @@
 
-# Mbed OS: framework for [PlatformIO](https://platformio.org)
+# Mbed: framework for [PlatformIO](https://platformio.org)
 
 Arm Mbed OS is a platform operating system designed for the internet of things
 
@@ -115,15 +115,4 @@ Arm Mbed OS is a platform operating system designed for the internet of things
   * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
   * [zephyr-net-https-client](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-net-https-client)
   * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
-
-- [Teensy](https://github.com/platformio/platform-teensy)
-  * [arduino-blink](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-blink)
-  * [arduino-hid-usb-mouse](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-hid-usb-mouse)
-  * [arduino-internal-libs](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-internal-libs)
-  * [mbed-blink](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
-  * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
-  * [zephyr-blink](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-blink)
-  * [zephyr-synchronization](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-synchronization)
 

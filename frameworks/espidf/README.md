@@ -11,7 +11,6 @@ Espressif IoT Development Framework. Official development framework for ESP32 ch
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
   * [arduino-ble5-advertising](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-ble5-advertising)
   * [arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-blink)
-  * [arduino-briki-internal-libs](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-briki-internal-libs)
   * [arduino-usb-keyboard](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-usb-keyboard)
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-wifiscan)
   * [espidf-arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-blink)

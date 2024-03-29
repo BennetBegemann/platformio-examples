@@ -26,7 +26,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
 
 - [Atmel SAM](https://github.com/platformio/platform-atmelsam)
   * [arduino-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-blink)
-  * [arduino-briki-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-briki-internal-libs)
   * [arduino-external-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-external-libs)
   * [arduino-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-internal-libs)
   * [arduino-web-thing-led](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-web-thing-led)
@@ -37,7 +36,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
   * [arduino-ble5-advertising](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-ble5-advertising)
   * [arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-blink)
-  * [arduino-briki-internal-libs](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-briki-internal-libs)
   * [arduino-usb-keyboard](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-usb-keyboard)
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-wifiscan)
   * [espidf-arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-blink)
@@ -167,10 +165,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [arduino-blink](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-blink)
   * [arduino-hid-usb-mouse](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-hid-usb-mouse)
   * [arduino-internal-libs](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-internal-libs)
-  * [mbed-blink](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
-  * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
   * [zephyr-blink](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-blink)
   * [zephyr-synchronization](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-synchronization)
 
